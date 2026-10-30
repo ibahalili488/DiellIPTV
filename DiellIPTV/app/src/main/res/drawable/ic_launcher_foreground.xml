@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Diell sun from the brand logo, kept inside the adaptive-icon safe zone -->
+<inset xmlns:android="http://schemas.android.com/apk/res/android"
+    android:drawable="@drawable/diell_sun"
+    android:inset="24dp" />
